@@ -1,0 +1,2 @@
+["晴", "阴", "雾", "小雨", "中雨", "大雨", "暴雨", "雷阵雨", "冰雹", "冻雨", "雨夹雪", "小雪", "中雪", "大雪", "霜冻", "大风", "多云"]
+["qing", "yin", "wu", "xiaoyu", "zhongyu", "dayu", "baoyu", "leizhenyu", "bingbao", "dongyu", "yujiaxue", "xiaoxue", "zhongxue", "daxue", "shuangdong", "dafeng", "duoyun"]
